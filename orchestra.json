@@ -1,0 +1,15 @@
+{
+    "version": "0.7.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/crossben/orchestra-code/releases/download/v0.7.3/orchestra_0.7.3_windows_amd64.zip",
+            "bin": [
+                "orchestra.exe"
+            ],
+            "hash": "a939aa710bce410484957f93f614d4a763fde18e896558d0f8a3a16590cfc5c1"
+        }
+    },
+    "homepage": "https://github.com/crossben/orchestra-code",
+    "license": "MIT",
+    "description": "The operating system for AI coding agents"
+}
