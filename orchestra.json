@@ -1,12 +1,12 @@
 {
-    "version": "0.7.3",
+    "version": "0.9.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/crossben/orchestra-code/releases/download/v0.7.3/orchestra_0.7.3_windows_amd64.zip",
+            "url": "https://github.com/crossben/orchestra-code/releases/download/v0.9.0/orchestra_0.9.0_windows_amd64.zip",
             "bin": [
                 "orchestra.exe"
             ],
-            "hash": "a939aa710bce410484957f93f614d4a763fde18e896558d0f8a3a16590cfc5c1"
+            "hash": "cf4286b14429a7561f3864fc72d24520cdf9337fdca2197632b6f7c6bbf94fee"
         }
     },
     "homepage": "https://github.com/crossben/orchestra-code",
